@@ -1,6 +1,6 @@
 # ProgUzytkowe
 
-# Heading 1
+# Git
 Filip Kowalewski
 ## Opis projektu
 
